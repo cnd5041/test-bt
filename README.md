@@ -6,14 +6,18 @@ Sample Code: https://blog.thirdrocktechkno.com/how-to-integrate-bluetooth-with-i
 ### Ionic Installation 
 https://ionicframework.com/docs/intro/installation/
 
-### Deploying to a Device
-https://ionicframework.com/docs/intro/deploying/
-
 ### Ionic CLI
 https://ionicframework.com/docs/cli/
 
 ### Ionic Native Plugins
 https://ionicframework.com/docs/native/
+
+### Developer Resources
+https://ionicframework.com/docs/developer-resources/#
+#### Mac Setup
+https://ionicframework.com/docs/developer-resources/platform-setup/mac-setup.html
+#### Windows Setup 
+https://ionicframework.com/docs/developer-resources/platform-setup/windows-setup.html
 
 ### Running this project
 - Install Ionic (with Node and NPM)
