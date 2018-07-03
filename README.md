@@ -1,6 +1,8 @@
 # test-bt
 Testing ionic's serial bluetooth plugin (https://ionicframework.com/docs/native/bluetooth-serial/)
 
+Sample Code: https://blog.thirdrocktechkno.com/how-to-integrate-bluetooth-with-ionic-3-edeea39ef3bd
+
 ### Ionic Installation 
 https://ionicframework.com/docs/intro/installation/
 
