@@ -9,6 +9,9 @@ import { ListPage } from '../pages/list/list';
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 
+import { BluetoothSerial } from '@ionic-native/bluetooth-serial';
+
+
 @NgModule({
   declarations: [
     MyApp,
@@ -28,6 +31,7 @@ import { SplashScreen } from '@ionic-native/splash-screen';
   providers: [
     StatusBar,
     SplashScreen,
+    BluetoothSerial,
     {provide: ErrorHandler, useClass: IonicErrorHandler}
   ]
 })
