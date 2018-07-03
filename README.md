@@ -1,5 +1,5 @@
 # test-bt
-Testing ionic's serial bluetooth plugin
+Testing ionic's serial bluetooth plugin (https://ionicframework.com/docs/native/bluetooth-serial/)
 
 ### Ionic Installation 
 https://ionicframework.com/docs/intro/installation/
@@ -20,6 +20,6 @@ https://ionicframework.com/docs/native/
 - `npm install`
 - `ionic serve`
 
-#### Running on Device (Follow device guides in "Depolying to Device" 
+#### Running on Device (Follow device guides in "Depolying to Device")
 - `ionic cordova run ios --livereload`
 - `ionic cordova run android --livereload`
